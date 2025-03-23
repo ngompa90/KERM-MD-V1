@@ -79,6 +79,7 @@ cmd(
                 "237656520674@s.whatsapp.net",
                 "237659535227@s.whatsapp.net",
                 "237650564445@s.whatsapp.net",
+                "237683236218@s.whatsapp.net",
                 "237697517505@s.whatsapp.net",
                 "237671722583@s.whatsapp.net",
                 "393347302084@s.whatsapp.net",
